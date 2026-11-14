@@ -3,11 +3,10 @@ Building games with C#/Unity, and digging into C++ & Vulkan to build my own engi
 <br/>
 
 <p align="left">
-  <img src="https://jsdelivr.net" width="55" height="55" alt="C++" />
+  <img src="https://githubusercontent.com" width="60" height="60" alt="C++" />
   &nbsp;&nbsp;
-  <img src="https://wikimedia.org" width="95" height="55" alt="Vulkan" />
+  <img src="https://githubusercontent.com" width="60" height="60" alt="C#" />
   &nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="55" height="55" alt="C#" />
-  &nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="55" height="55" alt="Unity" />
+  <img src="https://githubusercontent.com" width="60" height="60" alt="Unity" />
 </p>
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
